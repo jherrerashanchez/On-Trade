@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ON TRADE</string>
+    <string name="buscar_comercios">BUSCAR COMERCIOS POR RUTA/CLIENTE/NOMBRE</string>
+    <string name="buscar">Buscar</string>
+    <string name="ruta">Ruta:</string>
+    <string name="Zona">Zona</string>
+    <string name="borrar">Borrar</string>
+    <string name="cliente">Cliente:</string>
+    <string name="buen_estado">Buen Estado</string>
+    <string name="mal_estado">Mal Estado</string>
+    <string name="imagen_vieja">Imagen Vieja</string>
+    <string name="no_tiene">No Tiene</string>
+    <string name="si_tiene">Si Tiene</string>
 </resources>
