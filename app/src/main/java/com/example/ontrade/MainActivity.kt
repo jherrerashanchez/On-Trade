@@ -19,6 +19,11 @@ class MainActivity : AppCompatActivity() , RutaInterface  {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //borrar esto es de prueba
+        val intent = Intent(this, EjemploActivity::class.java)
+        startActivity(intent)
+
+
         //se inicializa y configura el adapter y reciclerView
         val recycler = findViewById<RecyclerView>(R.id.reciclador)
         val adapter = initAdapter(recycler)
